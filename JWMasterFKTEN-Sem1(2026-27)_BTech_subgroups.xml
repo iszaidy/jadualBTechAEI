@@ -9031,6 +9031,10 @@
   <Subgroup name="UR6523011 - Y1G1(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
+        <Activity id="27"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
       </Hour>
@@ -9039,10 +9043,25 @@
       <Hour name="11:00 - 11:50">
       </Hour>
       <Hour name="12:00 - 12:50">
+        <Activity id="38"></Activity>
+        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="38"></Activity>
+        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
+        <Activity id="38"></Activity>
+        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
       </Hour>
@@ -9083,16 +9102,8 @@
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
@@ -9105,12 +9116,6 @@
       <Hour name="11:00 - 11:50">
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="35"></Activity>
-        <Teacher name="FKTEN - MOHD FIKRI BIN CHE HUSIN"></Teacher>
-        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
-        <Subject name="NMT10404 - ELECTRONIC DIGITAL TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="13:00 - 13:50">
         <Activity id="35"></Activity>
@@ -9137,18 +9142,33 @@
         <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="16:00 - 16:50">
+        <Activity id="35"></Activity>
+        <Teacher name="FKTEN - MOHD FIKRI BIN CHE HUSIN"></Teacher>
+        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
+        <Subject name="NMT10404 - ELECTRONIC DIGITAL TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
+        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="17:00 - 17:50">
-      </Hour>
-      <Hour name="18:00 - 18:50">
-        <Activity id="27"></Activity>
+        <Activity id="26"></Activity>
         <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
         <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
+      </Hour>
+      <Hour name="18:00 - 18:50">
+        <Activity id="26"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Thursday">
       <Hour name="08:00 - 08:50">
+        <Activity id="31"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
         <Activity id="31"></Activity>
@@ -9172,31 +9192,14 @@
         <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="31"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
       </Hour>
       <Hour name="14:00 - 14:50">
-        <Activity id="41"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="41"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="41"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
       </Hour>
@@ -9207,10 +9210,22 @@
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="41"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
+        <Activity id="41"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
+        <Activity id="41"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -9221,51 +9236,28 @@
       <Hour name="15:00 - 15:50">
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="38"></Activity>
-        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="38"></Activity>
-        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="38"></Activity>
-        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
     </Day>
   </Subgroup>
   <Subgroup name="UR6523011 - Y1G2(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
+        <Activity id="27"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
       </Hour>
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="36"></Activity>
-        <Teacher name="FKTEN - MOHD FIKRI BIN CHE HUSIN"></Teacher>
-        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
-        <Subject name="NMT10404 - ELECTRONIC DIGITAL TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="36"></Activity>
-        <Teacher name="FKTEN - MOHD FIKRI BIN CHE HUSIN"></Teacher>
-        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
-        <Subject name="NMT10404 - ELECTRONIC DIGITAL TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="13:00 - 13:50">
         <Activity id="36"></Activity>
@@ -9284,8 +9276,20 @@
         <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="36"></Activity>
+        <Teacher name="FKTEN - MOHD FIKRI BIN CHE HUSIN"></Teacher>
+        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
+        <Subject name="NMT10404 - ELECTRONIC DIGITAL TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
+        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="16:00 - 16:50">
+        <Activity id="36"></Activity>
+        <Teacher name="FKTEN - MOHD FIKRI BIN CHE HUSIN"></Teacher>
+        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
+        <Subject name="NMT10404 - ELECTRONIC DIGITAL TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
+        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="17:00 - 17:50">
       </Hour>
@@ -9294,8 +9298,18 @@
     </Day>
     <Day name="Tuesday">
       <Hour name="08:00 - 08:50">
+        <Activity id="39"></Activity>
+        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="39"></Activity>
+        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
         <Activity id="39"></Activity>
@@ -9305,18 +9319,8 @@
         <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="39"></Activity>
-        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="39"></Activity>
-        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
       </Hour>
@@ -9337,16 +9341,8 @@
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
@@ -9369,12 +9365,16 @@
       <Hour name="16:00 - 16:50">
       </Hour>
       <Hour name="17:00 - 17:50">
-      </Hour>
-      <Hour name="18:00 - 18:50">
-        <Activity id="27"></Activity>
+        <Activity id="26"></Activity>
         <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
         <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
+      </Hour>
+      <Hour name="18:00 - 18:50">
+        <Activity id="26"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Thursday">
@@ -9391,12 +9391,32 @@
       <Hour name="13:00 - 13:50">
       </Hour>
       <Hour name="14:00 - 14:50">
+        <Activity id="32"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="32"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
+        <Activity id="32"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
+        <Activity id="32"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
       </Hour>
@@ -9405,22 +9425,10 @@
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="42"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="42"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="42"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -9429,64 +9437,40 @@
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="32"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="32"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
+        <Activity id="42"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="32"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
+        <Activity id="42"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="32"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
+        <Activity id="42"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
     </Day>
   </Subgroup>
   <Subgroup name="UR6523011 - Y1G3(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
-        <Activity id="33"></Activity>
+        <Activity id="27"></Activity>
         <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
         <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="33"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="33"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="33"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -9507,6 +9491,12 @@
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="37"></Activity>
+        <Teacher name="FKTEN - MOHD FIKRI BIN CHE HUSIN"></Teacher>
+        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
+        <Subject name="NMT10404 - ELECTRONIC DIGITAL TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
+        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="10:00 - 10:50">
         <Activity id="37"></Activity>
@@ -9533,12 +9523,6 @@
         <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="13:00 - 13:50">
-        <Activity id="37"></Activity>
-        <Teacher name="FKTEN - MOHD FIKRI BIN CHE HUSIN"></Teacher>
-        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
-        <Subject name="NMT10404 - ELECTRONIC DIGITAL TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="14:00 - 14:50">
       </Hour>
@@ -9557,37 +9541,32 @@
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="43"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity id="40"></Activity>
+        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
         <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="43"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity id="40"></Activity>
+        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
         <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="43"></Activity>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity id="40"></Activity>
+        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
         <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
@@ -9601,41 +9580,42 @@
       <Hour name="16:00 - 16:50">
       </Hour>
       <Hour name="17:00 - 17:50">
-      </Hour>
-      <Hour name="18:00 - 18:50">
-        <Activity id="27"></Activity>
+        <Activity id="26"></Activity>
         <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
         <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
+      </Hour>
+      <Hour name="18:00 - 18:50">
+        <Activity id="26"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Thursday">
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="40"></Activity>
-        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="40"></Activity>
-        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="40"></Activity>
-        <Teacher name="FKTEN - ISZAIDY BIN ISMAIL"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT10302 - PROGRAMMING TECHNOLOGY"></Subject>
+        <Activity id="43"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
         <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
+        <Activity id="43"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="43"></Activity>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10102 - TECHNOLOGY AND DEVELOPMENT SKILLS"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL PENGAWAL LOGIK BOLEH ATURCARA 2(ME02)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
       </Hour>
@@ -9650,12 +9630,32 @@
     </Day>
     <Day name="Friday">
       <Hour name="08:00 - 08:50">
+        <Activity id="33"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="33"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
+        <Activity id="33"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
+        <Activity id="33"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -9772,6 +9772,11 @@
     </Day>
     <Day name="Friday">
       <Hour name="08:00 - 08:50">
+        <Activity id="44"></Activity>
+        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
+        <Subject name="NMT11702 - SYSTEM PROGRAMMING TECHNOLOGY 1"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
+        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="09:00 - 09:50">
         <Activity id="44"></Activity>
@@ -9788,11 +9793,6 @@
         <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="44"></Activity>
-        <Teacher name="FKTEN - MOHD WAFI BIN NASRUDIN"></Teacher>
-        <Subject name="NMT11702 - SYSTEM PROGRAMMING TECHNOLOGY 1"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A"></Room>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -9813,110 +9813,94 @@
   <Subgroup name="UR6523011 - Y2G1(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
-        <Activity id="17"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
+        <Activity id="27"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="17"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
       </Hour>
       <Hour name="12:00 - 12:50">
+      </Hour>
+      <Hour name="13:00 - 13:50">
+      </Hour>
+      <Hour name="14:00 - 14:50">
+        <Activity id="23"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+      </Hour>
+      <Hour name="15:00 - 15:50">
+        <Activity id="23"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+      </Hour>
+      <Hour name="16:00 - 16:50">
+        <Activity id="23"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+      </Hour>
+      <Hour name="17:00 - 17:50">
+        <Activity id="23"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+      </Hour>
+      <Hour name="18:00 - 18:50">
+      </Hour>
+    </Day>
+    <Day name="Tuesday">
+      <Hour name="08:00 - 08:50">
+      </Hour>
+      <Hour name="09:00 - 09:50">
+        <Activity id="19"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+      </Hour>
+      <Hour name="10:00 - 10:50">
+        <Activity id="19"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+      </Hour>
+      <Hour name="11:00 - 11:50">
+        <Activity id="19"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+      </Hour>
+      <Hour name="12:00 - 12:50">
+        <Activity id="19"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+      </Hour>
+      <Hour name="13:00 - 13:50">
+      </Hour>
+      <Hour name="14:00 - 14:50">
         <Activity id="18"></Activity>
         <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
         <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
-      <Hour name="13:00 - 13:50">
-      </Hour>
-      <Hour name="14:00 - 14:50">
-      </Hour>
-      <Hour name="15:00 - 15:50">
-        <Activity id="19"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
-      </Hour>
-      <Hour name="16:00 - 16:50">
-        <Activity id="19"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
-      </Hour>
-      <Hour name="17:00 - 17:50">
-        <Activity id="19"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
-      </Hour>
-      <Hour name="18:00 - 18:50">
-        <Activity id="19"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
-      </Hour>
-    </Day>
-    <Day name="Tuesday">
-      <Hour name="08:00 - 08:50">
-        <Activity id="22"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
-      </Hour>
-      <Hour name="09:00 - 09:50">
-        <Activity id="23"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
-      </Hour>
-      <Hour name="10:00 - 10:50">
-        <Activity id="23"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
-      </Hour>
-      <Hour name="11:00 - 11:50">
-        <Activity id="23"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
-      </Hour>
-      <Hour name="12:00 - 12:50">
-        <Activity id="23"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
-      </Hour>
-      <Hour name="13:00 - 13:50">
-      </Hour>
-      <Hour name="14:00 - 14:50">
-      </Hour>
       <Hour name="15:00 - 15:50">
       </Hour>
       <Hour name="16:00 - 16:50">
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
@@ -9927,10 +9911,25 @@
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
+        <Activity id="28"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
+        <Activity id="28"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="28"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
         <Activity id="28"></Activity>
@@ -9940,31 +9939,20 @@
         <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="28"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="28"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="28"></Activity>
+        <Activity id="26"></Activity>
         <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
         <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="27"></Activity>
+        <Activity id="26"></Activity>
         <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
         <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Thursday">
@@ -9979,18 +9967,8 @@
       <Hour name="12:00 - 12:50">
       </Hour>
       <Hour name="13:00 - 13:50">
-        <Activity id="14"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
-        <Activity id="14"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
         <Activity id="14"></Activity>
@@ -10007,16 +9985,39 @@
         <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
+        <Activity id="14"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="14"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Friday">
       <Hour name="08:00 - 08:50">
+        <Activity id="13"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(100)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="17"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
+        <Activity id="17"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
       </Hour>
@@ -10027,11 +10028,10 @@
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="13"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(100)"></Activity_Tag>
+        <Activity id="22"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
       </Hour>
@@ -10044,32 +10044,44 @@
   <Subgroup name="UR6523011 - Y2G2(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
-        <Activity id="17"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
+        <Activity id="27"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="17"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="18"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+        <Activity id="29"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="29"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
+        <Activity id="29"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="29"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
       </Hour>
@@ -10080,62 +10092,75 @@
     </Day>
     <Day name="Tuesday">
       <Hour name="08:00 - 08:50">
-        <Activity id="22"></Activity>
+        <Activity id="24"></Activity>
         <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
         <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="24"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
+        <Activity id="24"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
+        <Activity id="24"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="29"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
-        <Activity id="29"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
-        <Activity id="29"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
+        <Activity id="18"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="29"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
+        <Activity id="15"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
+        <Activity id="15"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
+        <Activity id="15"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
+        <Activity id="15"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
       <Hour name="08:00 - 08:50">
+        <Activity id="20"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
         <Activity id="20"></Activity>
@@ -10159,47 +10184,26 @@
         <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="20"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
       </Hour>
       <Hour name="14:00 - 14:50">
-        <Activity id="15"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="15"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="15"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="15"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
-      </Hour>
-      <Hour name="18:00 - 18:50">
-        <Activity id="27"></Activity>
+        <Activity id="26"></Activity>
         <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
         <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
+      </Hour>
+      <Hour name="18:00 - 18:50">
+        <Activity id="26"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Thursday">
@@ -10228,28 +10232,25 @@
     </Day>
     <Day name="Friday">
       <Hour name="08:00 - 08:50">
-        <Activity id="24"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+        <Activity id="13"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(100)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="24"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+        <Activity id="17"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="24"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+        <Activity id="17"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="24"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -10258,11 +10259,10 @@
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="13"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(100)"></Activity_Tag>
+        <Activity id="22"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
       </Hour>
@@ -10275,54 +10275,42 @@
   <Subgroup name="UR6523011 - Y2G3(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
-        <Activity id="17"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
-      </Hour>
-      <Hour name="09:00 - 09:50">
-        <Activity id="17"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
-      </Hour>
-      <Hour name="10:00 - 10:50">
-      </Hour>
-      <Hour name="11:00 - 11:50">
-      </Hour>
-      <Hour name="12:00 - 12:50">
-        <Activity id="18"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity id="27"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
+      <Hour name="09:00 - 09:50">
+        <Activity id="25"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+      </Hour>
+      <Hour name="10:00 - 10:50">
+        <Activity id="25"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+      </Hour>
+      <Hour name="11:00 - 11:50">
+        <Activity id="25"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+      </Hour>
+      <Hour name="12:00 - 12:50">
+        <Activity id="25"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
+      </Hour>
       <Hour name="13:00 - 13:50">
-        <Activity id="30"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
-        <Activity id="30"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="30"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="30"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
       </Hour>
@@ -10331,106 +10319,102 @@
     </Day>
     <Day name="Tuesday">
       <Hour name="08:00 - 08:50">
-        <Activity id="22"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="21"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="21"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="30"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="21"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="30"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="21"></Activity>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="30"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="30"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Teacher name="FKTEN - MOHAMAD SUHAIZAL BIN ABU HASSAN"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
+        <Activity id="18"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
       </Hour>
       <Hour name="16:00 - 16:50">
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="26"></Activity>
-        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
-        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
       <Hour name="08:00 - 08:50">
-        <Activity id="16"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="16"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="16"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="16"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="21"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
+        <Activity id="21"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="21"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
+        <Activity id="21"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-      </Hour>
-      <Hour name="18:00 - 18:50">
-        <Activity id="27"></Activity>
+        <Activity id="26"></Activity>
         <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
         <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
+      </Hour>
+      <Hour name="18:00 - 18:50">
+        <Activity id="26"></Activity>
+        <Teacher name="FKTEN - MOHD SHAIFUL AZIZ BIN RASHID ALI"></Teacher>
+        <Subject name="NMT10205 - FUNDAMENTAL ELECTRONIC"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(200)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Thursday">
@@ -10439,46 +10423,63 @@
       <Hour name="09:00 - 09:50">
       </Hour>
       <Hour name="10:00 - 10:50">
+        <Activity id="16"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
+        <Activity id="16"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
+        <Activity id="16"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="16"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
-        <Activity id="25"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="25"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="25"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="25"></Activity>
-        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
-        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
       </Hour>
     </Day>
     <Day name="Friday">
       <Hour name="08:00 - 08:50">
+        <Activity id="13"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(100)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="17"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
+        <Activity id="17"></Activity>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT20205 - INDUSTRIAL AUTOMATION"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
       </Hour>
@@ -10489,11 +10490,10 @@
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="13"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT21403 - NETWORK SECURITY IMPLEMENTATION"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(100)"></Activity_Tag>
+        <Activity id="22"></Activity>
+        <Teacher name="FKTEN - HAZILA BINTI OTHMAN"></Teacher>
+        <Subject name="NMT20103 - DATA ACQUISITION TECHNOLOGY"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
       </Hour>
@@ -10506,90 +10506,70 @@
   <Subgroup name="UR6523011 - Y3G1(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
-        <Activity id="6"></Activity>
+        <Activity id="7"></Activity>
         <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
         <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
         <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="6"></Activity>
+        <Activity id="7"></Activity>
         <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
         <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
         <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="10"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="10"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="10"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
       </Hour>
       <Hour name="13:00 - 13:50">
-        <Activity id="10"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
       </Hour>
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="45"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="8"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="8"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity id="6"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
+        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="6"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
+        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Tuesday">
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="7"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
-        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
+        <Activity id="8"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="7"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
-        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
+        <Activity id="8"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="9"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
       </Hour>
@@ -10600,8 +10580,16 @@
       <Hour name="16:00 - 16:50">
       </Hour>
       <Hour name="17:00 - 17:50">
+        <Activity id="2"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="2"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
@@ -10612,86 +10600,120 @@
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
+        <Activity id="46"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
+        <Activity id="46"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
       </Hour>
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="47"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
+        <Activity id="47"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
+        <Activity id="47"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="47"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Thursday">
       <Hour name="08:00 - 08:50">
+        <Activity id="10"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="10"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="3"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="10"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="3"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="10"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="3"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
-        <Activity id="3"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="3"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
+        <Activity id="3"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
+        <Activity id="3"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="3"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Friday">
       <Hour name="08:00 - 08:50">
-        <Activity id="2"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="2"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="45"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -10712,14 +10734,14 @@
   <Subgroup name="UR6523011 - Y3G2(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
-        <Activity id="6"></Activity>
+        <Activity id="7"></Activity>
         <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
         <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
         <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="6"></Activity>
+        <Activity id="7"></Activity>
         <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
         <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
         <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
@@ -10728,86 +10750,94 @@
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
+        <Activity id="48"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
+        <Activity id="48"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="48"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
+        <Activity id="48"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="45"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="8"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="8"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity id="6"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
+        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="6"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
+        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Tuesday">
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="7"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
-        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
-      </Hour>
-      <Hour name="10:00 - 10:50">
-        <Activity id="7"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
-        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
-      </Hour>
-      <Hour name="11:00 - 11:50">
-      </Hour>
-      <Hour name="12:00 - 12:50">
-        <Activity id="9"></Activity>
+        <Activity id="8"></Activity>
         <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
         <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
+      <Hour name="10:00 - 10:50">
+        <Activity id="8"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+      </Hour>
+      <Hour name="11:00 - 11:50">
+      </Hour>
+      <Hour name="12:00 - 12:50">
+      </Hour>
       <Hour name="13:00 - 13:50">
       </Hour>
       <Hour name="14:00 - 14:50">
-        <Activity id="4"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="4"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="4"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="4"></Activity>
+        <Activity id="2"></Activity>
         <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
         <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="2"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
@@ -10818,32 +10848,22 @@
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="11"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
+        <Activity id="46"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="11"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
+        <Activity id="46"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
-        <Activity id="11"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
       </Hour>
       <Hour name="14:00 - 14:50">
-        <Activity id="11"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
       </Hour>
       <Hour name="15:00 - 15:50">
       </Hour>
@@ -10880,24 +10900,28 @@
     </Day>
     <Day name="Friday">
       <Hour name="08:00 - 08:50">
-        <Activity id="2"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
+        <Activity id="11"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="2"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
+        <Activity id="11"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
+        <Activity id="11"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="45"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+        <Activity id="11"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -10906,26 +10930,46 @@
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="4"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
+        <Activity id="4"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
+        <Activity id="4"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="4"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
     </Day>
   </Subgroup>
   <Subgroup name="UR6523011 - Y3G3(20) Automatic Subgroup">
     <Day name="Monday">
       <Hour name="08:00 - 08:50">
-        <Activity id="6"></Activity>
+        <Activity id="7"></Activity>
         <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
         <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
         <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="6"></Activity>
+        <Activity id="7"></Activity>
         <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
         <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
         <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
@@ -10942,58 +10986,82 @@
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="45"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="8"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="8"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity id="6"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
+        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="6"></Activity>
+        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
+        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
+        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Tuesday">
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="7"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
-        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
-      </Hour>
-      <Hour name="10:00 - 10:50">
-        <Activity id="7"></Activity>
-        <Teacher name="FKTEN - AHMAD NASIR BIN CHE ROSLI"></Teacher>
-        <Teacher name="FKTEN - ZULKIFLI BIN HUSIN"></Teacher>
-        <Subject name="NMT31404 - TECHNOPRENEUR PROJECT 2"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
-      </Hour>
-      <Hour name="11:00 - 11:50">
-      </Hour>
-      <Hour name="12:00 - 12:50">
-        <Activity id="9"></Activity>
+        <Activity id="8"></Activity>
         <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
         <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
         <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
+      <Hour name="10:00 - 10:50">
+        <Activity id="8"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
+      </Hour>
+      <Hour name="11:00 - 11:50">
+      </Hour>
+      <Hour name="12:00 - 12:50">
+        <Activity id="12"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
+      </Hour>
       <Hour name="13:00 - 13:50">
+        <Activity id="12"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="14:00 - 14:50">
+        <Activity id="12"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="15:00 - 15:50">
+        <Activity id="12"></Activity>
+        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
+        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL AUTOMASI INDUSTRI UNIMAP-FESTO(MI03)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
       </Hour>
       <Hour name="17:00 - 17:50">
+        <Activity id="2"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
+        <Activity id="2"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
     </Day>
     <Day name="Wednesday">
@@ -11004,8 +11072,18 @@
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
+        <Activity id="46"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
+        <Activity id="46"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="13:00 - 13:50">
       </Hour>
@@ -11022,36 +11100,36 @@
     </Day>
     <Day name="Thursday">
       <Hour name="08:00 - 08:50">
+        <Activity id="5"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="5"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
-        <Activity id="12"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
+        <Activity id="5"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="12"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
+        <Activity id="5"></Activity>
+        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
+        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
+        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
-        <Activity id="12"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
       </Hour>
       <Hour name="13:00 - 13:50">
-        <Activity id="12"></Activity>
-        <Teacher name="FKTEN - HASNAH BINTI AHMAD"></Teacher>
-        <Subject name="NMT31204 -  APPLICATION SYSTEM DEVELOPMENT 2"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL KOMPUTER"></Activity_Tag>
-        <Room name="FKTEN - MAKMAL KOMPUTER"></Room>
       </Hour>
       <Hour name="14:00 - 14:50">
       </Hour>
@@ -11066,24 +11144,12 @@
     </Day>
     <Day name="Friday">
       <Hour name="08:00 - 08:50">
-        <Activity id="2"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="09:00 - 09:50">
-        <Activity id="2"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(60)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
       </Hour>
       <Hour name="11:00 - 11:50">
-        <Activity id="45"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="12:00 - 12:50">
       </Hour>
@@ -11092,32 +11158,32 @@
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="5"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="49"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="5"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="49"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
-        <Activity id="5"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="49"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
       <Hour name="18:00 - 18:50">
-        <Activity id="5"></Activity>
-        <Teacher name="FKTEN - FAZRUL FAIZ BIN ZAKARIA"></Teacher>
-        <Teacher name="FKTEN - KHAIRUL AFFENDI BIN ROSLI"></Teacher>
-        <Subject name="NMT32105 - SYSTEM INTEGRATION DESIGN"></Subject>
-        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI DIGITAL SIEMENS(MI02)"></Activity_Tag>
+        <Activity id="49"></Activity>
+        <Teacher name="FKTEN - MOHD HAFIZI BIN OMAR"></Teacher>
+        <Teacher name="FKTEN - CHE MUHAMMAD NOR BIN CHE ISA"></Teacher>
+        <Subject name="NMT31104 - SYSTEM OPTIMIZATION TECHNOLOGY 2"></Subject>
+        <Activity_Tag name="FKTEN - MAKMAL INDUSTRI UNIMAP-NATIONAL INSTRUMENTS(MI09)"></Activity_Tag>
       </Hour>
     </Day>
   </Subgroup>
@@ -11126,8 +11192,16 @@
       <Hour name="08:00 - 08:50">
       </Hour>
       <Hour name="09:00 - 09:50">
+        <Activity id="1"></Activity>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT41112 - INDUSTRIAL TRAINING"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="10:00 - 10:50">
+        <Activity id="1"></Activity>
+        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
+        <Subject name="NMT41112 - INDUSTRIAL TRAINING"></Subject>
+        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="11:00 - 11:50">
       </Hour>
@@ -11138,16 +11212,8 @@
       <Hour name="14:00 - 14:50">
       </Hour>
       <Hour name="15:00 - 15:50">
-        <Activity id="1"></Activity>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT41112 - INDUSTRIAL TRAINING"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="16:00 - 16:50">
-        <Activity id="1"></Activity>
-        <Teacher name="FKTEN - SUZANNA BINTI HARUN RONALD"></Teacher>
-        <Subject name="NMT41112 - INDUSTRIAL TRAINING"></Subject>
-        <Activity_Tag name="FKTEN - LECTURE(ONLINE)"></Activity_Tag>
       </Hour>
       <Hour name="17:00 - 17:50">
       </Hour>
