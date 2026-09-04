@@ -2,116 +2,116 @@
 <Activities_Timetable>
   <Activity>
     <Id>1</Id>
-    <Day>Monday</Day>
-    <Hour>09:00 - 09:50</Hour>
+    <Day>Wednesday</Day>
+    <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>2</Id>
-    <Day>Wednesday</Day>
-    <Hour>09:00 - 09:50</Hour>
+    <Day>Tuesday</Day>
+    <Hour>12:00 - 12:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>3</Id>
-    <Day>Monday</Day>
+    <Day>Tuesday</Day>
     <Hour>15:00 - 15:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>4</Id>
     <Day>Monday</Day>
-    <Hour>09:00 - 09:50</Hour>
+    <Hour>15:00 - 15:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>5</Id>
-    <Day>Friday</Day>
-    <Hour>08:00 - 08:50</Hour>
+    <Day>Monday</Day>
+    <Hour>10:00 - 10:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>6</Id>
-    <Day>Thursday</Day>
-    <Hour>17:00 - 17:50</Hour>
+    <Day>Friday</Day>
+    <Hour>16:00 - 16:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>7</Id>
-    <Day>Tuesday</Day>
-    <Hour>12:00 - 12:50</Hour>
+    <Day>Wednesday</Day>
+    <Hour>09:00 - 09:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>8</Id>
-    <Day>Tuesday</Day>
+    <Day>Friday</Day>
     <Hour>17:00 - 17:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>10</Id>
-    <Day>Monday</Day>
-    <Hour>08:00 - 08:50</Hour>
+    <Day>Wednesday</Day>
+    <Hour>14:00 - 14:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>11</Id>
-    <Day>Thursday</Day>
-    <Hour>09:00 - 09:50</Hour>
+    <Day>Tuesday</Day>
+    <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>12</Id>
-    <Day>Monday</Day>
-    <Hour>13:00 - 13:50</Hour>
+    <Day>Friday</Day>
+    <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>13</Id>
-    <Day>Wednesday</Day>
-    <Hour>09:00 - 09:50</Hour>
+    <Day>Tuesday</Day>
+    <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>14</Id>
     <Day>Monday</Day>
-    <Hour>12:00 - 12:50</Hour>
+    <Hour>14:00 - 14:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>15</Id>
-    <Day>Wednesday</Day>
-    <Hour>12:00 - 12:50</Hour>
-    <Room></Room>
-  </Activity>
-  <Activity>
-    <Id>16</Id>
-    <Day>Thursday</Day>
-    <Hour>08:00 - 08:50</Hour>
-    <Room></Room>
-  </Activity>
-  <Activity>
-    <Id>17</Id>
     <Day>Tuesday</Day>
     <Hour>14:00 - 14:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
-    <Id>18</Id>
+    <Id>16</Id>
     <Day>Thursday</Day>
-    <Hour>18:00 - 18:50</Hour>
+    <Hour>10:00 - 10:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
-    <Id>19</Id>
-    <Day>Tuesday</Day>
+    <Id>17</Id>
+    <Day>Friday</Day>
     <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
-    <Id>20</Id>
+    <Id>18</Id>
+    <Day>Friday</Day>
+    <Hour>11:00 - 11:50</Hour>
+    <Room></Room>
+  </Activity>
+  <Activity>
+    <Id>19</Id>
     <Day>Thursday</Day>
-    <Hour>12:00 - 12:50</Hour>
+    <Hour>10:00 - 10:50</Hour>
+    <Room></Room>
+  </Activity>
+  <Activity>
+    <Id>20</Id>
+    <Day>Wednesday</Day>
+    <Hour>09:00 - 09:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
@@ -122,122 +122,122 @@
   </Activity>
   <Activity>
     <Id>22</Id>
-    <Day>Monday</Day>
-    <Hour>08:00 - 08:50</Hour>
+    <Day>Wednesday</Day>
+    <Hour>18:00 - 18:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>23</Id>
-    <Day>Friday</Day>
+    <Day>Monday</Day>
     <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>24</Id>
+    <Day>Tuesday</Day>
+    <Hour>09:00 - 09:50</Hour>
+    <Room></Room>
+  </Activity>
+  <Activity>
+    <Id>25</Id>
     <Day>Friday</Day>
     <Hour>15:00 - 15:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
-    <Id>25</Id>
-    <Day>Monday</Day>
-    <Hour>10:00 - 10:50</Hour>
-    <Room></Room>
-  </Activity>
-  <Activity>
     <Id>26</Id>
-    <Day>Tuesday</Day>
-    <Hour>17:00 - 17:50</Hour>
+    <Day>Thursday</Day>
+    <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>27</Id>
-    <Day>Monday</Day>
-    <Hour>17:00 - 17:50</Hour>
+    <Day>Thursday</Day>
+    <Hour>18:00 - 18:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>28</Id>
-    <Day>Wednesday</Day>
-    <Hour>13:00 - 13:50</Hour>
+    <Day>Tuesday</Day>
+    <Hour>15:00 - 15:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>29</Id>
     <Day>Monday</Day>
-    <Hour>11:00 - 11:50</Hour>
+    <Hour>09:00 - 09:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>30</Id>
-    <Day>Friday</Day>
-    <Hour>08:00 - 08:50</Hour>
+    <Day>Tuesday</Day>
+    <Hour>10:00 - 10:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>31</Id>
-    <Day>Tuesday</Day>
-    <Hour>12:00 - 12:50</Hour>
-    <Room></Room>
-  </Activity>
-  <Activity>
-    <Id>32</Id>
-    <Day>Wednesday</Day>
-    <Hour>08:00 - 08:50</Hour>
-    <Room></Room>
-  </Activity>
-  <Activity>
-    <Id>33</Id>
     <Day>Thursday</Day>
     <Hour>14:00 - 14:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
+    <Id>32</Id>
+    <Day>Friday</Day>
+    <Hour>08:00 - 08:50</Hour>
+    <Room></Room>
+  </Activity>
+  <Activity>
+    <Id>33</Id>
+    <Day>Wednesday</Day>
+    <Hour>10:00 - 10:50</Hour>
+    <Room></Room>
+  </Activity>
+  <Activity>
     <Id>34</Id>
     <Day>Wednesday</Day>
-    <Hour>15:00 - 15:50</Hour>
+    <Hour>17:00 - 17:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>35</Id>
-    <Day>Monday</Day>
-    <Hour>13:00 - 13:50</Hour>
+    <Day>Wednesday</Day>
+    <Hour>12:00 - 12:50</Hour>
     <Room>FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A</Room>
   </Activity>
   <Activity>
     <Id>36</Id>
-    <Day>Thursday</Day>
-    <Hour>10:00 - 10:50</Hour>
+    <Day>Tuesday</Day>
+    <Hour>08:00 - 08:50</Hour>
     <Room>FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A</Room>
   </Activity>
   <Activity>
     <Id>37</Id>
-    <Day>Tuesday</Day>
-    <Hour>13:00 - 13:50</Hour>
+    <Day>Monday</Day>
+    <Hour>11:00 - 11:50</Hour>
     <Room>FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A</Room>
   </Activity>
   <Activity>
     <Id>38</Id>
-    <Day>Friday</Day>
-    <Hour>09:00 - 09:50</Hour>
+    <Day>Monday</Day>
+    <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>39</Id>
-    <Day>Tuesday</Day>
-    <Hour>11:00 - 11:50</Hour>
+    <Day>Wednesday</Day>
+    <Hour>12:00 - 12:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>40</Id>
     <Day>Friday</Day>
-    <Hour>15:00 - 15:50</Hour>
+    <Hour>09:00 - 09:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>41</Id>
-    <Day>Tuesday</Day>
-    <Hour>08:00 - 08:50</Hour>
+    <Day>Monday</Day>
+    <Hour>16:00 - 16:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
@@ -248,38 +248,38 @@
   </Activity>
   <Activity>
     <Id>43</Id>
-    <Day>Wednesday</Day>
-    <Hour>09:00 - 09:50</Hour>
+    <Day>Friday</Day>
+    <Hour>16:00 - 16:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>44</Id>
-    <Day>Monday</Day>
-    <Hour>09:00 - 09:50</Hour>
+    <Day>Thursday</Day>
+    <Hour>10:00 - 10:50</Hour>
     <Room>FKTEN - MAKMAL SIMULASI KOMPUTER (MEMS) A</Room>
   </Activity>
   <Activity>
     <Id>46</Id>
-    <Day>Tuesday</Day>
+    <Day>Monday</Day>
     <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>47</Id>
-    <Day>Wednesday</Day>
-    <Hour>14:00 - 14:50</Hour>
+    <Day>Monday</Day>
+    <Hour>12:00 - 12:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>48</Id>
-    <Day>Monday</Day>
-    <Hour>15:00 - 15:50</Hour>
+    <Day>Thursday</Day>
+    <Hour>13:00 - 13:50</Hour>
     <Room></Room>
   </Activity>
   <Activity>
     <Id>49</Id>
     <Day>Thursday</Day>
-    <Hour>10:00 - 10:50</Hour>
+    <Hour>08:00 - 08:50</Hour>
     <Room></Room>
   </Activity>
 </Activities_Timetable>

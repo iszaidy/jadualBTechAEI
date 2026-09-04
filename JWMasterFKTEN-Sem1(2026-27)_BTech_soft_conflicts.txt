@@ -1,5 +1,5 @@
 ﻿Soft conflicts of JWMasterFKTEN-Sem1(2026-27)_BTech.fet
-Generated with FET 7.10.1 on 9/4/26 12:00 PM
+Generated with FET 7.10.1 on 9/4/26 3:31 PM
 
 Number of broken soft constraints: 0
 Total soft conflicts: 0
